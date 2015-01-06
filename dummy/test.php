@@ -11,6 +11,7 @@ class testClass {
         $this->internal = $val;
     }
     
+    // test
     public function getVal() {
         return strtoupper($this->internal);
     }
